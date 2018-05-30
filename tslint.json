@@ -1,0 +1,13 @@
+{
+    "extends": ["tslint:latest"],
+    "rules": {
+      // override tslint-react rules here
+      "jsx-wrap-multiline": false,
+      "max-line-length": false,
+      "no-implicit-dependencies": [true, "dev"],
+      "no-var-requires": false,
+      "indent": false,
+      "no-console": false
+      
+    }
+  }

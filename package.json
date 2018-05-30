@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "tslint /*.ts -t verbose"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tslint": "^5.10.0",
+    "typescript": "^2.8.3"
+  }
+}
